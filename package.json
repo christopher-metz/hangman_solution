@@ -1,0 +1,11 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "temp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Metz <cmetz7@gmail.com>",
+  "license": "ISC"
+}
